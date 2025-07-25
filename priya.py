@@ -6,3 +6,4 @@ def greet(name):
 # Ask user for their name
 user_name = input("Enter your name: ")
 greet(user_name)
+print("have a good day")
